@@ -53,3 +53,6 @@ body{overflow: hidden;}
     }
 }
 }
+@media(max-width:322px){
+    .container{background-size: 262%; background-repeat: no-repeat;}
+}
